@@ -13,3 +13,4 @@ Vorbereitungsschritte sind:
   - **ESLint** (Microsoft)
   - **Live Server** (Ritwick Dey)
   
+Für das Starten der Anwendung nutze ich von Anfang an den Live Server. 
