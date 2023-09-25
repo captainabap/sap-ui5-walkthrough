@@ -3,6 +3,8 @@ SAP UI5 Walktrough
 
 Ein weiteres Mal das großartige [SAPUI5 Walktrough Tutorial](https://sapui5.hana.ondemand.com/sdk/#/topic/3da5f4be63264db99f2e5b04c5e853db) als Repository. Jeder Step ist ein Branch. Damit kann man ganz einfach den Status nach dem jeweiligen Schritt sehen. 
 
+Da ich das Tutorial im Rahmen einer Schulung nutze, weiche ich etwas von den Schritten ab. Es sind also manche Schritte mit zusätzlichen Dateien oder Änderungen versehen. 
+
 Vorbereitungsschritte sind: 
 - VS-Code installieren
 - Plug-Ins für VS-Code  installieren:
